@@ -1,4 +1,4 @@
-- Hi, I’m @ustall
+- Hi, I’m @Maxim Gorbachev
 - I’m interested in Ai and OCRs
 - I’m currently learning Python
 
