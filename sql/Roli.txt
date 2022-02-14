@@ -1,9 +1,0 @@
-create role Role1
-go
-create login [A1] with password = 'abcde'
-create user [A1] for login [A1]
-go
-alter role Role1 add member [A1]
-go
-grant select on CourtCase to [A1]
-deny select on Suspect to [A1]
