@@ -1,0 +1,26 @@
+
+
+--test func FIO_Detective
+select *from Detective
+select Detective.FIO_Detective(3);
+
+--test procedure Case_del
+select* from Suspect
+select* from Witness
+select* from Wictim
+select* from CrimeScene
+select* from CourtCase
+execute Case_del @Id_Case = 2
+select* from Suspect
+select* from Witness
+select* from Wictim
+select* from CrimeScene
+select* from CourtCase
+
+
+--test procedure Add_Evidence
+select* from Evidence
+execute Add_Evidence @ID=4, @ID_PoliceStation = 4, @EvidenceName =  'A1'
+select* from Evidence
+
+
