@@ -1,7 +1,5 @@
 from PyPDF2 import PdfFileWriter, PdfFileMerger, PdfFileReader
 
-# pdf_file='F:/max/Programs2/Myfiles/PDFbot/in.pdf'
-# save_file='F:/max/Programs2/Myfiles/PDFbot/out.pdf'
 def cropPDF(pdf_file,save_file):
     with open(pdf_file, "rb") as in_f:
         input1 = PdfFileReader(in_f)
