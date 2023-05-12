@@ -1,6 +1,6 @@
 - Hi, I’m @Maxim Gorbachev
 - I’m interested in Ai and OCRs
-- I’m currently learning Python
+- I’m currently learning Kotlin
 
 <!---
 ustall/ustall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
