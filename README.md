@@ -3,6 +3,7 @@
 - I’m currently learning Kotlin
 - Worked at IPONWeb-Criteo as AD-Ops Manager
 - Currenly trend analyst at "RhymesMusic" label
+- Currenly working at "Critical Reflex" publisher
 
 <!---
 ustall/ustall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
