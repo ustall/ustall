@@ -1,8 +1,7 @@
 - Hi, I’m @Maxim Gorbachev
 - I’m interested in Ai and OCRs
 - I’m currently learning Kotlin
-- Worked at IPONWeb-Criteo as AD-Ops Manager
-- Currenly trend analyst at "RhymesMusic" label
+- Worked at IPONWeb-Criteo as AD-Ops Manager, trend analyst at "RhymesMusic" label
 - Currenly working at "Critical Reflex" publisher
 
 <!---
